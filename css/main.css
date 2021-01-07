@@ -78,6 +78,7 @@ header{
 
 .actors-heading-position{
     font-size: 3rem;
+    margin-left: 10px;
     padding-right: 950px;
 }
 
@@ -147,7 +148,6 @@ border-radius: .8rem;
     text-transform: uppercase;
     padding-left: 2rem;
     text-align: center;
-    position: relative;
     color: rgba(48, 0, 0, 0.8);
 }
 .button{
